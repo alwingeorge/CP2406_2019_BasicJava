@@ -4,7 +4,6 @@ public class Dollars {
     public static void main(String[] args){
         double amount;
         double twenties, tens, fives, ones;
-        double remainder;
 
         Scanner scan = new Scanner (System.in);
 
